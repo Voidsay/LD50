@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 741f8bd1d9a0fe825a3ff5985fa404a4, type: 3}
+  m_Name: Collection
+  m_EditorClassIdentifier: 
+  walls:
+  - {fileID: 11400000, guid: e2620880025507e638416f5fb158ec35, type: 2}
+  - {fileID: 11400000, guid: d86eaea51df2aa0ecb60a1e6ab308352, type: 2}
+  - {fileID: 11400000, guid: 97faf8a9c0cf8305885a89a7690d4e1d, type: 2}
+  - {fileID: 11400000, guid: 1f793f6ed34f677899ab10a246d95773, type: 2}
+  - {fileID: 11400000, guid: bf20a2d1499c53d67b3ae176f744265c, type: 2}
+  - {fileID: 11400000, guid: addaa919d3c8ff70d9e5ac0775a109a3, type: 2}
+  - {fileID: 11400000, guid: 87e26e948551924d2862ac1a153d0a67, type: 2}
+  - {fileID: 11400000, guid: 72a7719bcf27e145f9f38aee914e7015, type: 2}
+  floor: {fileID: 8051286223583557528, guid: 7c59cb298e90f8c7a88c27049a59034d, type: 3}
+  streetFloor: {fileID: 1061568174931164086, guid: 4deb13bb77f8801f0b22a6579771c66f,
+    type: 3}
